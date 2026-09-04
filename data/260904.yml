@@ -7,7 +7,7 @@ about:
   head: 6cb11e7
   archived: false
   latestVersion: 0.7.7
-  collectedAt: 2026-09-04T19:37:58Z
+  collectedAt: 2026-09-04T20:58:41Z
 timeline:
   created: 2020-07-29
   lastCommit: 2025-03-13
@@ -82,6 +82,49 @@ total:
   openIssue: 26
   commit: 945
 ---
+path: /home/runner/.x-repo/github.com/curlpipe/ox
+collectedAt: 2026-09-04T20:58:42Z
+loc:
+  Rust:
+    code: 11012
+    comments: 807
+    blanks: 645
+    files: 38
+  Lua:
+    code: 2874
+    comments: 324
+    blanks: 236
+    files: 22
+  Toml:
+    code: 61
+    comments: 6
+    blanks: 8
+    files: 2
+  Sh:
+    code: 24
+    comments: 8
+    blanks: 5
+    files: 3
+  Svg:
+    code: 16
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 182
+    blanks: 99
+    files: 1
+  Text:
+    code: 0
+    comments: 107
+    blanks: 0
+    files: 5
+total:
+  code: 13987
+  comments: 2051
+  blanks: 997
+  files: 72
 ---
 date: "2026-08-24"
 repo:
