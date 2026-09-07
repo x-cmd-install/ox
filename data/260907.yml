@@ -5,7 +5,7 @@ about:
   head: 6cb11e7
   archived: false
   latestVersion: "0.7.7"
-  collectedAt: 2026-09-07T05:24:46Z
+  collectedAt: 2026-09-07T19:08:48Z
 timeline:
   created: 2020-07-29
   lastCommit: 2025-03-13
@@ -81,7 +81,7 @@ total:
   commit: 945
 ---
 path: /home/runner/.x-repo/github.com/curlpipe/ox
-collectedAt: 2026-09-07T05:24:52Z
+collectedAt: 2026-09-07T19:08:52Z
 loc:
   Rust:
     code: 11012
@@ -223,7 +223,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:24:53+00:00
+  collectedAt: 2026-09-07T19:08:53+00:00
   platform:
     darwin/arm64:
       name:  ox-macos
