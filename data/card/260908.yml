@@ -5,7 +5,7 @@ about:
   head: 6cb11e7
   archived: false
   latestVersion: "0.7.7"
-  collectedAt: 2026-09-08T02:33:38Z
+  collectedAt: 2026-09-08T05:26:15Z
 timeline:
   created: 2020-07-29
   lastCommit: 2025-03-13
@@ -81,7 +81,7 @@ total:
   commit: 945
 ---
 path: /home/runner/.x-repo/github.com/curlpipe/ox
-collectedAt: 2026-09-08T02:33:42Z
+collectedAt: 2026-09-08T05:26:22Z
 loc:
   Rust:
     code: 11012
