@@ -7,7 +7,7 @@ about:
   latestVersion: "0.7.7"
   latestRelease: "0.7.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:51:59Z
+  collectedAt: 2026-09-10T23:02:35Z
 timeline:
   created: 2020-07-29
   lastCommit: 2025-03-13
@@ -85,7 +85,7 @@ total:
   commit: 945
 ---
 path: /home/runner/.x-repo/github.com/curlpipe/ox
-collectedAt: 2026-09-10T20:52:46Z
+collectedAt: 2026-09-10T23:02:42Z
 loc:
   Rust:
     code: 11012
