@@ -31,8 +31,8 @@ x install ox
 评分最低的几项:
 
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (2/10) — Found 1/4 approved changesets -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install ox
 
 ## 流行度
 
-- **Star**: 3,750 · **Fork**: 123 · **开放 issue**: 155 · **贡献者**: 12
+- **Star**: 3,748 · **Fork**: 123 · **开放 issue**: 155 · **贡献者**: 12
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install ox
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-26 | 0 | 0 | 1 | 0 | 3 | 0 |
-| last720d | 2024-10-31 | 9 | 9 | 5 | 8 | 18 | 254 |
+| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-27 | 0 | 0 | 1 | 0 | 3 | 0 |
+| last720d | 2024-11-01 | 9 | 9 | 5 | 8 | 18 | 224 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ ox 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:29:33Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:27:50Z._
