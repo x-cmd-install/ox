@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5565016,
       "digest": null,
-      "download_count": 1545,
+      "download_count": 1546,
       "created_at": "2025-03-13T20:29:33Z",
       "updated_at": "2025-03-13T20:29:38Z",
       "browser_download_url": "https://github.com/curlpipe/ox/releases/download/0.7.7/ox"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1464605,
       "digest": null,
-      "download_count": 217,
+      "download_count": 218,
       "created_at": "2025-03-13T20:29:25Z",
       "updated_at": "2025-03-13T20:29:27Z",
       "browser_download_url": "https://github.com/curlpipe/ox/releases/download/0.7.7/ox-0.7.7-1.x86_64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5911552,
       "digest": null,
-      "download_count": 2122,
+      "download_count": 2132,
       "created_at": "2025-03-13T20:29:27Z",
       "updated_at": "2025-03-13T20:29:33Z",
       "browser_download_url": "https://github.com/curlpipe/ox/releases/download/0.7.7/ox.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1320976,
       "digest": null,
-      "download_count": 575,
+      "download_count": 576,
       "created_at": "2025-03-13T20:29:17Z",
       "updated_at": "2025-03-13T20:29:19Z",
       "browser_download_url": "https://github.com/curlpipe/ox/releases/download/0.7.7/ox_0.7.7-1_amd64.deb"
