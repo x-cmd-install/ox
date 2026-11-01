@@ -1,15 +1,37 @@
-- repo: aur
-  srcname: ox-git
-  binname: ox-git
-  visiblename: ox-git
-  version: 0.7.7
-  origversion: 0.7.7-1
-  status: rolling
-  summary: An independent Rust text editor that runs in your terminal!
+- repo: nix_stable_24_11
+  srcname: ox
+  visiblename: ox
+  version: 0.6.10
+  origversion: null
+  status: outdated
+  summary: Independent Rust text editor that runs in your terminal
   maintainers:
-    - curlpipe@aur
+    - lythe1107@gmail.com
   licenses:
-    - GPLv2
+    - GPL-2.0-only
+- repo: nix_stable_25_05
+  srcname: ox
+  visiblename: ox
+  version: 0.7.7
+  origversion: null
+  status: newest
+  summary: Independent Rust text editor that runs in your terminal
+  maintainers:
+    - lythe1107@gmail.com
+    - kachick1@gmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: nix_stable_25_11
+  srcname: ox
+  visiblename: ox
+  version: 0.7.7
+  origversion: null
+  status: newest
+  summary: Independent Rust text editor that runs in your terminal
+  maintainers:
+    - lythe1107@gmail.com
+  licenses:
+    - GPL-2.0-only
 - repo: aur
   srcname: ox-bin
   binname: ox-bin
@@ -17,6 +39,18 @@
   version: 0.7.7
   origversion: 0.7.7-1
   status: newest
+  summary: An independent Rust text editor that runs in your terminal!
+  maintainers:
+    - curlpipe@aur
+  licenses:
+    - GPLv2
+- repo: aur
+  srcname: ox-git
+  binname: ox-git
+  visiblename: ox-git
+  version: 0.7.7
+  origversion: 0.7.7-1
+  status: rolling
   summary: An independent Rust text editor that runs in your terminal!
   maintainers:
     - curlpipe@aur
@@ -70,40 +104,6 @@
     - lythe1107@gmail.com
   licenses:
     - GPL-2.0-only
-- repo: nix_stable_24_11
-  srcname: ox
-  visiblename: ox
-  version: 0.6.10
-  origversion: null
-  status: outdated
-  summary: Independent Rust text editor that runs in your terminal
-  maintainers:
-    - lythe1107@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: nix_stable_25_05
-  srcname: ox
-  visiblename: ox
-  version: 0.7.7
-  origversion: null
-  status: newest
-  summary: Independent Rust text editor that runs in your terminal
-  maintainers:
-    - lythe1107@gmail.com
-    - kachick1@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: nix_stable_25_11
-  srcname: ox
-  visiblename: ox
-  version: 0.7.7
-  origversion: null
-  status: newest
-  summary: Independent Rust text editor that runs in your terminal
-  maintainers:
-    - lythe1107@gmail.com
-  licenses:
-    - GPL-2.0-only
 - repo: nix_stable_26_05
   srcname: ox
   visiblename: ox
@@ -123,7 +123,7 @@
   status: newest
   summary: Independent Rust text editor that runs in your terminal
   maintainers:
-    - lythe1107@gmail.com
+    - nix@4rsxyzt.fyi
   licenses:
     - GPL-2.0-only
 - repo: t2
